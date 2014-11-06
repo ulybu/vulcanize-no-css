@@ -1,0 +1,23 @@
+{
+  "name": "vulcanize-no-css",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ulybu/vulcanize-no-css",
+  "authors": [
+    "Ulysse Prygiel <ulysse.prygiel@hp.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "polymer/polymer#~0.4.2"
+  }
+}
